@@ -11,5 +11,4 @@
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinMoFeng)](https://github.com/JustinMoFeng/github-readme-stats)
-<div align="center"> <img src="https://metrics.lecoq.io/JustinMoFeng?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=JustinMoFeng&theme=xcode" /> </div>
+
